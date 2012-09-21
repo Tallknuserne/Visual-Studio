@@ -1,1 +1,2 @@
 C:\Users\Jonas\Documents\GitHub\Visual-Studio\Tallknuserne\Tallknuserne\bin\Debug\Tallknuserne.exe.config
+C:\Users\Andrzey\Documents\GitHub\Visual-Studio\Tallknuserne\Tallknuserne\bin\Debug\Tallknuserne.exe.config
